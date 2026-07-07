@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Generated notebook figures (plots are embedded in the notebooks)
+notebooks/*.png
+Untitled*.ipynb
+
+# Data (keep only the compressed synthetic dataset)
+data/*.csv
+!data/*.csv.gz
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Power BI temp files
+*.pbix.tmp
