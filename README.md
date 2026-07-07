@@ -68,7 +68,7 @@ delivery-operations-analysis/
 
 ```bash
 # 1. Clone and install dependencies
-git clone https://github.com/<Maryam-Poursaeid>/delivery-operations-analysis.git
+git clone https://github.com/Maryam-Poursaeid/delivery-operations-analysis.git
 cd delivery-operations-analysis
 pip install -r requirements.txt
 
@@ -87,7 +87,6 @@ The Power BI dashboard (`dashboard/delivery_operations.pbix`) opens with [Power 
 
 - **Python** — pandas, NumPy, Matplotlib/Seaborn, scikit-learn (K-Means)
 - **Power BI** — data modeling, DAX measures, interactive visuals
-- **Figma** — report & visual design
 
 ---
 
@@ -99,4 +98,4 @@ The Power BI dashboard (`dashboard/delivery_operations.pbix`) opens with [Power 
 
 ## 📬 Contact
 
-**Maryam Poursaeid** — [LinkedIn](<https://www.linkedin.com/in/maryam-poursaeid-626637221/>) · mary.poursaeid@gmail.com
+**Maryam Poursaeid** — [LinkedIn](https://www.linkedin.com/in/maryam-poursaeid-626637221/) · mary.poursaeid@gmail.com
